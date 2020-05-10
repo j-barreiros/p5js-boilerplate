@@ -1,7 +1,6 @@
 function setup() {
+    //Create a fullscreen canvas
     createCanvas(windowWidth, windowHeight);
-    //noLoop();
-    //frameRate(60);
 }
 
 function draw() {
